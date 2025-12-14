@@ -1,0 +1,7 @@
+{
+  "name": "rosendigital", // 例：github-io-xxx（随便填，唯一即可）
+  "compatibility_date": "2025-12-14", // 日期保持当前，无需改
+  "assets": {
+    "directory": "./" // 关键：从./dist改为./（指向index.html所在的根目录）
+  }
+}
